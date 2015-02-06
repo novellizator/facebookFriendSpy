@@ -8,4 +8,3 @@
 // Step 5: Paste this file
 // Step 6: write "outputFriends()" into the console
 
-
